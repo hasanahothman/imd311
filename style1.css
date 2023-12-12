@@ -1,0 +1,75 @@
+<style>
+
+{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+
+.bg {
+  background-image: url('image/quote1.png');
+height: 50%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100% 100%;
+background-attachment: local;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+{
+.dropdown .dropbtn 
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #FF337D;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Add a gray background color with some padding */
+body {
+  font-family: century gothic;
+  background: #EAB3FA;
+}
+
+div.container {
+  text-align: right;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: right;
+}
+
